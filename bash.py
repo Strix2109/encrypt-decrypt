@@ -1,4 +1,4 @@
-# author : @Syhrularv_
+# author : @Sant.kr.(Admin of Strix Cyber Community)
 # -*- coding: utf-8 -*-
 
 import os
@@ -28,8 +28,8 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Syhrül
-{}   FqM            MMMM    {}FB       {}: {}fb.com/sarul.arif.5
+   HZM            MMMM    {}Coded by {}: {}Sant.kr
+{}   FqM            MMMM    {}Instagram       {}: {}@strix_21
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
