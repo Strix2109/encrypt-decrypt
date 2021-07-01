@@ -1,5 +1,4 @@
-# author : @Syhrularv_
-# -*- coding: utf-8 -*-
+# author : @Sant kr.(Admin of Strix cyber community)
 
 import os
 import sys
@@ -21,7 +20,7 @@ eror = R + '[' + W + '!' + R + ']'
 banner = """
 {}         _nnnn_{}        _________________
 {}        dGGGGMMb{}      |                 |
-{}       @p~qp~~qMb{}   ._| {}Bash Oubfuscate {}|
+{}       @p~qp~~qMb{}   ._| {}Bash Encrypt-Decrypt {}|
 {}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
 {}       @,{}----.{}JM|{}_/
 {}      JS^{}\__/{}  qKL
