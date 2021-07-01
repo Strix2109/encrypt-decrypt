@@ -1,6 +1,4 @@
-# encrypt-decrypt Tool in Termux
-
-# Bash Encrypter & Decrypter
+# Bash Encrypter & Decrypter in Termux
 
 # Installation in Termux
 ```
