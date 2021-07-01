@@ -28,9 +28,9 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Syhrül
-{}   FqM            MMMM    {}FB       {}: {}fb.com/sarul.arif.5
-{} __|'\ .        |\{}dS qML
+   HZM            MMMM    {}Coded by {}: {}Sant kr.(Admin of Strix Cyber Community)
+{}   FqM            MMMM    {}Instagram       {}: {}@strix_21
+{} __|'\ .        |\{}dS qML    {}YouTube       {}: {}STRIX.D (search on youtube)
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
 \____   ){}MMMMMP{}|   .'
