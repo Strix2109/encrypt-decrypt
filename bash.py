@@ -21,14 +21,14 @@ eror = R + '[' + W + '!' + R + ']'
 banner = """
 {}         _nnnn_{}        _________________
 {}        dGGGGMMb{}      |                 |
-{}       @p~qp~~qMb{}   ._| {}Bash Oubfuscate {}|
+{}       @p~qp~~qMb{}   ._| {}Bash Encrypt-Decrypt {}|
 {}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
 {}       @,{}----.{}JM|{}_/
 {}      JS^{}\__/{}  qKL
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Sant.kr(Admin of Strix Cyber Community)
+   HZM            MMMM    {}Coded by {}: {}Strix Cyber Community
 {}   FqM            MMMM    {}Instagram       {}: {}@strix_21
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
