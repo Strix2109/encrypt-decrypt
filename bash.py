@@ -28,7 +28,7 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Sant.kr
+   HZM            MMMM    {}Coded by {}: {}Sant.kr(Admin of Strix Cyber Community)
 {}   FqM            MMMM    {}Instagram       {}: {}@strix_21
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
