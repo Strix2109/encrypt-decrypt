@@ -28,9 +28,9 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Sant kr.(Admin of Strix Cyber Community)
-{}   FqM            MMMM    {}Instagram       {}: {}@strix_21
-{} __|'\ .        |\{}dS qML    {}YouTube       {}: {}STRIX.D
+   HZM            MMMM    {}Coded by {}: {}Strix Cyber Community
+{}   FqM            MMMM    {}YouTube       {}: {}STRIX.D
+{} __|'\ .        |\{}dS qML 
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
 \____   ){}MMMMMP{}|   .'
@@ -38,7 +38,7 @@ banner = """
 """.format(D,W,D,W,D,W,Y,W,D,W,D,W,D,W,D,W,D,Y,D,W,D,Y,D,G,W,G,D,G,W,G,Y,D,Y,D,Y,D,Y,D,Y)
 
 banner2 = """
-   {}[{}1{}]{} Encript      {}[{}2{}]{} Decrypt
+   {}[{}1{}]{} Encrypt      {}[{}2{}]{} Decrypt
 """.format(G,W,G,W,G,W,G,W)
 
 print banner
